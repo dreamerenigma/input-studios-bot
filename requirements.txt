@@ -3,3 +3,4 @@ pyTelegramBotAPI~=4.23.0
 aiogram~=3.13.1
 aiohttp~=3.10.10
 python-decouple~=3.8
+vk-api~=11.9.9
