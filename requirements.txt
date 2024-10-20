@@ -1,0 +1,5 @@
+python-dotenv~=1.0.1
+pyTelegramBotAPI~=4.23.0
+aiogram~=3.13.1
+aiohttp~=3.10.10
+python-decouple~=3.8
